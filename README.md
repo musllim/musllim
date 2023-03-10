@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**musllim/musllim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UWITONDANISHEMA Muslim
 
-Here are some ideas to get you started:
+Highly organized and detail-oriented college student from IPRC ngoma always looking to improove his skills and creativity. He’s motivated by gaining new skills and working with small to large teams and creative individuals.
+#### Languages and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,typescript,react,nodejs,expressjs)](https://skillicons.dev)
+
+#### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,vscode,git,github,linux,docker,firebase)](https://skillicons.dev)
+
+### Other 
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,github)](https://skillicons.dev)
