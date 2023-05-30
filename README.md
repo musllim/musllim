@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Hotel Product Management System.
+<!-- - 🔭 I’m currently working on Hotel Product Management System.-->
 - 🌱 I’m currently learning GraphQL and Apollo to enhance my fullstack development skills.
 - 👯 I’m looking to collaborate on: Open-source projects related to fullstack development.
 - 💬 Ask me about: JavaScript frameworks, UI/UX design, and best practices for responsive web development.
