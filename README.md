@@ -21,10 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,github)](https://skillicons.dev)
 
-
 [![](https://raw.githubusercontent.com/musllim/musllim/main/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)[![](https://raw.githubusercontent.com/musllim/musllim/main/profile-summary-card-output/swift/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
