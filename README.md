@@ -2,7 +2,7 @@
 ### <font color="#bd34fe">Muslim</font> is highly organized and detail-oriented programmer and designer.
 [![](https://visitcount.itsvg.in/api?id=musllim&icon=2&color=0)](https://visitcount.itsvg.in)
 
-- 🌱 I’m currently learning GraphQL and Apollo to enhance my fullstack development skills.
+- 🌱 I’m currently learning UI/UX with figma.
 - 👯 I’m looking to collaborate on: Open-source projects related to fullstack development.
 - 💬 Ask me about: JavaScript frameworks, UI/UX design, and best practices for responsive web development.
 - 📫 How to reach me: Feel free to email me at muslimuwitondanishema@gmail.com or connect with me on Twitter (@musllim).
