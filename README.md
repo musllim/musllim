@@ -24,6 +24,7 @@
 		<img src="lang-and-tools.svg" width="800" height="400" alt="Click to see the source">
 	<br>
 </div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musllim&show_icons=true&locale=en&layout=compact" alt="musllim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musllim&show_icons=true&locale=en" alt="musllim" /></p>
