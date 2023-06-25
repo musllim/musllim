@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm UWITONDANISHEMA Muslim</h1>
-<h3 align="center">
-  Muslim is highly organized and detail-oriented programmer and designer.
-</h3>
+<h1>Hi 👋 <img height="100" src="https://github.com/musllim/musllim/blob/main/muslim.svg"></h1>
 <p>
   <img
     src="https://komarev.com/ghpvc/?username=musllim&label=Profile%20views&color=0e75b6&style=flat"
