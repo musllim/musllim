@@ -10,3 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php,java,c,cpp,bash,graphql)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,next,angular,redux,rxjs,astro,nodejs,expressjs,laravel,graphql,jest)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,vscode,git,github,linux,docker,firebase,webpack,mysql,postgres,mongodb,redis,github,kubernetes,nginx)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musllim&layout=compact&theme=vision-friendly-dark)
