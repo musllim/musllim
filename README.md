@@ -4,6 +4,7 @@
     alt="musllim"
   />
 :rocket: I specialize in creating cohesive, efficient, and effective web applications that seamlessly integrate front-end and back-end technologies. My deep understanding of both development areas allows me to deliver robust applications with exceptional user experiences.
+I am learning web3
 
 <h2>🛠️Languages, Frameworks & Tool</h2>
 
