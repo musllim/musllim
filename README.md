@@ -9,4 +9,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,c,cpp,solidity,bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,next,angular,redux,rxjs,astro,nodejs,expressjs,laravel,graphql,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai,vscode,git,github,linux,docker,firebase,webpack,mysql,postgres,mongodb,redis,github,kubernetes,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,vscode,git,github,linux,docker,firebase,webpack,mysql,postgres,mongodb,redis,github,kubernetes,nginx)](https://skillicons.dev)
