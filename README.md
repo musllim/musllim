@@ -16,6 +16,6 @@
 
 <h2>🛠️Languages, Frameworks & Tool</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,python,php,java,c,cpp,solidity,bash)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,next,angular,redux,rxjs,astro,nodejs,expressjs,laravel,graphql,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,vscode,git,linux,docker,firebase,webpack,mysql,postgres,mongodb,redis,github,kubernetes,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,python,php,java,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,next,angular,redux,astro,nodejs,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,docker,firebase,mysql,postgres,mongodb,github)](https://skillicons.dev)
