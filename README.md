@@ -18,4 +18,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,python,php,java,solidity)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,next,angular,redux,astro,nodejs,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,docker,firebase,mysql,postgres,mongodb,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,docker,firebase,mysql,postgres,mongodb,github,wordpress)](https://skillicons.dev)
