@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=musllim&label=Profile%20views&color=0e75b6&style=flat)
 
-:rocket: I specialize in creating cohesive, efficient, and effective web applications that seamlessly integrate front-end and back-end technologies. My deep understanding of both development areas allows me to deliver robust applications with exceptional user experiences.
+:rocket: By day, I pretend to be a PHP developer. By night, I dream in JavaScript. Somewhere in between, legacy code wins.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musllim&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=musllim&theme=github_dark)
